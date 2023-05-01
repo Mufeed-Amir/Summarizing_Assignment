@@ -1,1 +1,1 @@
-I have everything in jupyter-notebook.
+I have mentioned everything in jupyter-notebook.
